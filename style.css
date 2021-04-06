@@ -1,0 +1,59 @@
+*{
+margin:10000;
+padding:1000;
+font-family: Helvetica;
+}
+
+#header{
+text-align: center;
+font-size: 50px;
+width:300px;
+margin-left:auto;
+margin-right:auto;
+//background-color: pink;
+}
+
+#container{
+margin-left: auto;
+margin-right: auto;
+text-align:center;
+width: 60%;
+padding: 0px;
+//background: blue;
+}
+
+#numbers{
+float: left;
+font-size: 20px;
+//background: red;
+width: 35%;
+padding: 5px;
+margin: 5px;
+}
+
+#timer{
+float:right;
+font-size:20px;
+border-style:solid;
+border-width:5px;
+padding: 10px;
+//background: yellow;
+width: 30%;
+
+}
+
+#score{
+float:right;
+clear: both;
+font-size: 25px;
+//background: green;
+width: 30%;
+margin-bottom: 15px;
+margin-top: 15px;
+}
+
+#startButton{
+float:right;
+clear:both;
+
+}
